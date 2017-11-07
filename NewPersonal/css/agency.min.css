@@ -217,7 +217,7 @@ fieldset[disabled] .btn-xl:hover {
     background-color: #fec503
 }
 #tourbtn {
-	margin-top: 5%;
+	margin-top: 7%;
 }
 #progskills{
 	columns: 2;
@@ -244,7 +244,7 @@ fieldset[disabled] .btn-xl:hover {
         border-radius: 3px
     }
     .navbar-custom.affix {
-        background-color: #222;
+        background-color: #c0c0c0;
         padding: 10px 0
     }
     .navbar-custom.affix .navbar-brand {
@@ -253,7 +253,7 @@ fieldset[disabled] .btn-xl:hover {
 }
 header {
     height: 100%;
-    background-image: url(../img/bg.jpg);
+    background-image: url(../img/Innovation_new.jpg);
     background-repeat: -repeat;
     background-attachment: scroll;
     background-position: center center;
@@ -317,10 +317,11 @@ header .intro-text .intro-heading {
         font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;
         text-transform: uppercase;
         font-weight: 700;
-        font-size: 75px;
+        font-size: 48px;
         line-height: 75px;
         margin-bottom: 50px;
         height: 100%;
+        width: 100%;
     }
 }
 portfolio .portfolio-item .portfolio-caption p,
