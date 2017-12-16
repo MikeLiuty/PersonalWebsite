@@ -59,3 +59,10 @@
     opacity: 0;
   }
 }
+
+.cvdl{
+    position:relative;
+    top:50%;
+    left:45%;
+    right: 45%;
+}
