@@ -60,9 +60,11 @@
   }
 }
 
-.cvdl{
-    position:relative;
-    top:50%;
-    left:45%;
-    right: 45%;
+.work{
+  margin-left: 10px;
+  clear: right;
+}
+
+.workbtn{
+  margin:2px;
 }
